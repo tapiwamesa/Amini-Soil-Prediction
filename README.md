@@ -1,5 +1,3 @@
-# Amini-Soil-Prediction
-
 # Soil Nutrient Prediction for Optimized Maize Yield
 
 ## 🌱 Overview
